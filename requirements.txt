@@ -1,0 +1,10 @@
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+matplotlib
+plotly
+folium
+streamlit
+streamlit-folium
+numpy
