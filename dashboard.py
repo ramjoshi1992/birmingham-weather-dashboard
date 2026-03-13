@@ -442,7 +442,7 @@ def main():
 if __name__ == "__main__":
     main()
 
----
+
 
 Save `dashboard.py`, `requirements.txt` and `packages.txt` in your `weather_dashboard` folder.
 
@@ -456,3 +456,4 @@ conda activate weather_dash
 pip install streamlit streamlit-folium
 cd C:\Users\%USERNAME%\Documents\weather_dashboard
 streamlit run dashboard.py
+
