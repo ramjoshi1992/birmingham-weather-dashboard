@@ -441,7 +441,6 @@ def main():
 # This line runs the main() function when Streamlit starts the app
 if __name__ == "__main__":
     main()
-```
 
 ---
 
@@ -452,7 +451,7 @@ Save `dashboard.py`, `requirements.txt` and `packages.txt` in your `weather_dash
 ## Test it locally first
 
 Before uploading to GitHub, test it on your own computer. In Anaconda Prompt:
-```
+
 conda activate weather_dash
 pip install streamlit streamlit-folium
 cd C:\Users\%USERNAME%\Documents\weather_dashboard
